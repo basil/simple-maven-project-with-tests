@@ -148,5 +148,16 @@
                 </plugins>
             </build>
         </profile>
+        <profile>
+            <id>all-tests</id>
+            <activation>
+                <property>
+                    <name>!test</name>
+                </property>
+            </activation>
+            <properties>
+                <surefire.rerunFailingTestsCount>4</surefire.rerunFailingTestsCount>
+            </properties>
+        </profile>
     </profiles>
 </project>
