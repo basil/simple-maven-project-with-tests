@@ -62,7 +62,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>3.0.0-M7-SNAPSHOT</version>
+                <version>3.0.0-SNAPSHOT</version>
                 <configuration>
                     <releaseProfiles>jenkins-release</releaseProfiles>
                 </configuration>
