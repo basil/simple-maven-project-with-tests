@@ -20,7 +20,7 @@
     <distributionManagement>
         <repository>
             <id>local-releases</id>
-            <url>http://localhost:8081/repository/local-releases/</url>
+            <url>http://localhost:8081/repository/myrepo/</url>
         </repository>
     </distributionManagement>
     <properties>
