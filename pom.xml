@@ -24,7 +24,7 @@
         </repository>
     </distributionManagement>
     <properties>
-        <revision>1.39-SNAPSHOT</revision>
+        <revision>1.39</revision>
         <changelist>-SNAPSHOT</changelist>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
