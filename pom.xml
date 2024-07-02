@@ -217,6 +217,7 @@
                     </plugin>
                     <plugin>
                         <artifactId>maven-enforcer-plugin</artifactId>
+                        <version>3.5.0</version>
                         <dependencies>
                             <dependency>
                                 <groupId>io.jenkins.tools.incrementals</groupId>
