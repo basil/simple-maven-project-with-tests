@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>test</groupId>
     <artifactId>simple-maven-project-with-tests</artifactId>
-    <version>1.34</version>
+    <version>1.35-SNAPSHOT</version>
     <packaging>jar</packaging>
     <licenses>
         <license>
@@ -14,7 +14,7 @@
     <scm>
         <connection>scm:git:https://github.com/basil/simple-maven-project-with-tests.git</connection>
         <developerConnection>scm:git:git@github.com:basil/simple-maven-project-with-tests.git</developerConnection>
-        <tag>simple-maven-project-with-tests-1.34</tag>
+        <tag>HEAD</tag>
         <url>https://github.com/basil/simple-maven-project-with-tests</url>
     </scm>
     <distributionManagement>
