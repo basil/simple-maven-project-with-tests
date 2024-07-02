@@ -14,7 +14,7 @@
     <scm>
         <connection>scm:git:https://github.com/basil/simple-maven-project-with-tests.git</connection>
         <developerConnection>scm:git:git@github.com:basil/simple-maven-project-with-tests.git</developerConnection>
-        <tag>${scmTag}</tag>
+        <tag>simple-maven-project-with-tests-1.38</tag>
         <url>https://github.com/basil/simple-maven-project-with-tests</url>
     </scm>
     <distributionManagement>
