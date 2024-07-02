@@ -77,7 +77,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>3.0.2-SNAPSHOT</version>
+                <version>3.1.1-SNAPSHOT</version>
                 <configuration>
                     <releaseProfiles>jenkins-release,!consume-incrementals</releaseProfiles>
                 </configuration>
